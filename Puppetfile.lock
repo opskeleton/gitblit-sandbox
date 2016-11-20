@@ -1,20 +1,20 @@
 FORGE
   remote: https://forgeapi.puppetlabs.com
   specs:
-    puppetlabs-apt (2.2.2)
+    puppetlabs-apt (2.3.0)
       puppetlabs-stdlib (< 5.0.0, >= 4.5.0)
-    puppetlabs-concat (2.1.0)
-      puppetlabs-stdlib (< 5.0.0, >= 3.2.0)
-    puppetlabs-stdlib (4.12.0)
-    ripienaar-module_data (0.5.2)
+    puppetlabs-concat (2.2.0)
+      puppetlabs-stdlib (< 5.0.0, >= 4.2.0)
+    puppetlabs-stdlib (4.13.1)
+    ripienaar-module_data (0.5.1)
     rodjek-logrotate (1.1.1)
 
 GIT
   remote: git://github.com/camptocamp/puppet-archive.git
   ref: master
-  sha: 71b5de9a2042f34a63df4f72c84705cf8acfb903
+  sha: f63fa4e265a3e534f5ab4d54527703f73e82253d
   specs:
-    camptocamp-archive (0.8.1)
+    camptocamp-archive (0.9.0)
 
 GIT
   remote: git://github.com/pulling-strings/puppet-backup.git
@@ -27,7 +27,7 @@ GIT
 GIT
   remote: git://github.com/pulling-strings/puppet-barbecue.git
   ref: master
-  sha: da7a48739224ca7e7c058b934a694d6b6de1cc07
+  sha: f1fb0329f8c30d72f9e987e14b9e170331eeb5f1
   specs:
     strings-barbecue (0.0.2)
       puppetlabs-apt (>= 1.5.2)
@@ -42,7 +42,7 @@ GIT
 GIT
   remote: git://github.com/pulling-strings/puppet-gitblit.git
   ref: master
-  sha: b9917c8b8dcccd6ce7269d4266e9cdf76ba11002
+  sha: abb6c057b38acf85a0d2cc02bc25cf40e5b37b99
   specs:
     strings-gitblit (0.0.1)
       puppetlabs-concat (>= 1.2.0)
