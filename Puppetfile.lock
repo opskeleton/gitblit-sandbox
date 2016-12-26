@@ -6,7 +6,7 @@ FORGE
     puppetlabs-concat (2.2.0)
       puppetlabs-stdlib (< 5.0.0, >= 4.2.0)
     puppetlabs-stdlib (4.13.1)
-    ripienaar-module_data (0.5.1)
+    ripienaar-module_data (0.5.2)
     rodjek-logrotate (1.1.1)
 
 GIT
@@ -42,7 +42,7 @@ GIT
 GIT
   remote: git://github.com/pulling-strings/puppet-gitblit.git
   ref: master
-  sha: abb6c057b38acf85a0d2cc02bc25cf40e5b37b99
+  sha: efd10aca09c6d425916d201e541b00ab96d63002
   specs:
     strings-gitblit (0.0.1)
       puppetlabs-concat (>= 1.2.0)
