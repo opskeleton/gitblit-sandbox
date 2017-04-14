@@ -2,7 +2,9 @@ forge 'https://forgeapi.puppetlabs.com'
 
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/apt'
-mod 'ripienaar/module_data'
+
+mod 'rip/module-data',
+  :git => 'git://github.com/ripienaar/puppet-module-data.git'
 
 mod 'camptocamp/archive', 
    :git => 'git://github.com/camptocamp/puppet-archive.git'
