@@ -51,6 +51,13 @@ GIT
     strings-editfile (0.1.0)
 
 GIT
+  remote: git://github.com/pulling-strings/puppet-git.git
+  ref: master
+  sha: 88f68eae13b941f49f5976e35205e44aae32ad2e
+  specs:
+    strings-git (0.0.1)
+
+GIT
   remote: git://github.com/pulling-strings/puppet-gitblit.git
   ref: master
   sha: 706b926dfa92fe6c93551163e5e84e2b1b28ba8a
@@ -91,6 +98,7 @@ DEPENDENCIES
   strings-barbecue (>= 0)
   strings-baseline (>= 0)
   strings-editfile (>= 0)
+  strings-git (>= 0)
   strings-gitblit (>= 0)
   strings-jdk (>= 0)
   strings-shell (>= 0)

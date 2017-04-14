@@ -29,4 +29,7 @@ mod 'strings/baseline',
 mod 'strings/shell',
   :git => 'git://github.com/pulling-strings/puppet-shell.git'
 
+mod 'strings/git',
+  :git => 'git://github.com/pulling-strings/puppet-git.git'
+
 

@@ -8,5 +8,6 @@ node default {
   include gitblit
   include baseline
   include baseline::update
+  include baseline::mirror
   include shell
 }
