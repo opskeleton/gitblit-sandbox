@@ -1,7 +1,6 @@
 forge 'https://forgeapi.puppetlabs.com'
 
 mod 'puppetlabs/stdlib'
-mod 'puppetlabs/apt'
 
 mod 'rip/module-data',
   :git => 'git://github.com/ripienaar/puppet-module-data.git'
@@ -23,5 +22,11 @@ mod 'strings/barbecue',
 
 mod 'strings/editfile',
   :git => 'git://github.com/pulling-strings/puppet-editfile.git'
+
+mod 'strings/baseline', 
+  :git => 'git://github.com/pulling-strings/puppet-baseline.git'
+
+mod 'strings/shell',
+  :git => 'git://github.com/pulling-strings/puppet-shell.git'
 
 
