@@ -4,3 +4,5 @@ modules
 .tmp
 hieraprod
 hieraprod.yaml
+gitblit
+repos
