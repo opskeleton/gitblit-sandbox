@@ -32,4 +32,8 @@ mod 'strings/shell',
 mod 'strings/git',
   :git => 'git://github.com/pulling-strings/puppet-git.git'
 
+mod 'puppetlabs/concat',
+  :git => 'git://github.com/puppetlabs/puppetlabs-concat.git',
+  :ref => '2.1.x'
+
 
