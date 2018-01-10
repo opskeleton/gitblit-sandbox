@@ -3,7 +3,6 @@ node default {
     ensure  => present
   } -> Exec <||>
 
-  include apt
   include gitblit
   include baseline
   include baseline::update

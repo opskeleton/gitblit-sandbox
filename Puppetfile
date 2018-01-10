@@ -14,16 +14,10 @@ mod 'strings/jdk',
 mod 'strings/gitblit',
   :git => 'git://github.com/pulling-strings/puppet-gitblit.git'
 
-mod 'strings/backup',
-  :git => 'git://github.com/pulling-strings/puppet-backup.git'
-
-mod 'strings/barbecue',
-  :git => 'git://github.com/pulling-strings/puppet-barbecue.git'
-
 mod 'strings/editfile',
   :git => 'git://github.com/pulling-strings/puppet-editfile.git'
 
-mod 'strings/baseline', 
+mod 'strings/baseline',
   :git => 'git://github.com/pulling-strings/puppet-baseline.git'
 
 mod 'strings/shell',
