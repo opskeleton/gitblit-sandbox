@@ -20,7 +20,7 @@ GIT
 GIT
   remote: git://github.com/pulling-strings/puppet-baseline.git
   ref: master
-  sha: 368ee22cae460788f229c7662bfb25fc4e620f56
+  sha: 8b73980b2cee678f899358e8d593a52da0b80811
   specs:
     strings-baseline (0.0.1)
 
@@ -41,7 +41,7 @@ GIT
 GIT
   remote: git://github.com/pulling-strings/puppet-gitblit.git
   ref: master
-  sha: 7d8dfd507124f30ecf84ce0374e379f665314321
+  sha: 2a7459515348ffe94c1cdac58867fffb4746b7ce
   specs:
     strings-gitblit (0.0.1)
       puppetlabs-concat (>= 1.2.0)
@@ -50,7 +50,7 @@ GIT
 GIT
   remote: git://github.com/pulling-strings/puppet-jdk.git
   ref: master
-  sha: c6bffbabf58ba368cc028069bbda72599423ce70
+  sha: 557e8b13735abc66ddbf55660e83d380a5e9ca89
   specs:
     strings-jdk (0.1.0)
       puppetlabs-apt (< 3.0.0, >= 2.0.0)
